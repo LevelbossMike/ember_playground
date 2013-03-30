@@ -2,7 +2,7 @@ ember_playground
 ================
 
 ember_playground is a skeleton application that can be used to quickly set up
-a development environment for emberJS apps that are backed by a Ruby on Rails
+a development environment for Ember.js apps that are backed by a Ruby on Rails
 backend.
 
 Setup
