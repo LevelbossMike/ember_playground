@@ -1,0 +1,3 @@
+EmberPlayground.Router.map(function() {
+
+});
